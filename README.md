@@ -1,10 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A81B&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+HKienDev+-+Hoang+Kien!;Fullstack+Web+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HKienDev&show_icons=true&theme=radical" height="150px"/>
-</div>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HKienDev&label=Profile%20views&color=blue&style=flat" />
 </p>
