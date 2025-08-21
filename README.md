@@ -31,7 +31,7 @@ const hoangKien = {
     },
     currentProject: "E-commerce Platform with Next.js & Express",
     goals2025: "Master advanced React/Next patterns & DevOps practices",
-    funFact: "Lost 3 GitHub accounts and over 2000+ contributions... but still coding stronger than ever! 💪"
+    funFact: "Lost 3 GitHub accounts and over 2500+ contributions... but still coding stronger than ever! 💪"
 };
 ````
 
@@ -39,7 +39,7 @@ const hoangKien = {
 
 ## <div align="center">🚀 My Journey 🚀</div>
 
-> 💔 Lost my previous GitHub account with **600+ contributions**
+> 💔 Lost my previous GitHub account with **2500+ contributions**
 > 🔥 Rebuilding stronger than ever as a **Fullstack Developer**
 > 📈 Follow my journey and growth!
 
